@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://db_emulator/" targetNamespace="http://db_emulator/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="createProductDB_Object" type="tns:createProductDB_Object" />
+  <xs:element name="createProductDB_ObjectResponse" type="tns:createProductDB_ObjectResponse" />
+  <xs:element name="getProduct" type="tns:getProduct" />
+  <xs:element name="getProductResponse" type="tns:getProductResponse" />
+  <xs:complexType name="getProduct">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getProductResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="createProductDB_Object">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="createProductDB_ObjectResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

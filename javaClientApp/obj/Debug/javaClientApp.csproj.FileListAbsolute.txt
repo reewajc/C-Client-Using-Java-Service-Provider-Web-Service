@@ -1,0 +1,10 @@
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\bin\Debug\javaClientApp.exe.config
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\bin\Debug\javaClientApp.exe
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\bin\Debug\javaClientApp.pdb
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\obj\Debug\javaClientApp.csprojAssemblyReference.cache
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\obj\Debug\javaClientApp.Properties.Resources.resources
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\obj\Debug\javaClientApp.csproj.GenerateResource.cache
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\obj\Debug\javaClientApp.csproj.CoreCompileInputs.cache
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\obj\Debug\javaClientApp.exe
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\obj\Debug\javaClientApp.pdb
+D:\SpringSemister2019\CIS266WebServices\javaClientApp\javaClientApp\obj\Debug\javaClientApp.frmServiceClient.resources
